@@ -1,8 +1,4 @@
 ### Hi there 👋
-<a href="https://reactnative.dev" target="_blank">
-<img width=35 height=35 src="https://i.hizliresim.com/uVbeqe.png" alt="https://reactnative.dev">
-</a>
-<b><b>
 <!--
 **alperkaratas/alperkaratas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://reactnative.dev" target="_blank">
+<img width=35 height=35 src="https://i.hizliresim.com/uVbeqe.png" alt="https://reactnative.dev">
+</a>
+<b>
+<b>    
 
 <a href="https://twitter.com/alpkaratass" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/alpkaratass">
