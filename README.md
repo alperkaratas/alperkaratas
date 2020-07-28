@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://reactnative.dev" target="_blank">
-<img width=35 height=35 src="https://i.hizliresim.com/uVbeqe.png" alt="https://reactnative.dev">
-</a>
-<b>
+<img width=35 height=35 src="https://i.hizliresim.com/uVbeqe.png">
+
+
 <b>    
 
 <a href="https://twitter.com/alpkaratass" target="_blank">
