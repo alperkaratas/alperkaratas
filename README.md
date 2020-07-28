@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/alpkrts/" target="_blank">
     <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/alpkrts/">
 </a>
-<a href="mailto:alpkrts3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:alpkrts3@gmail.com">
-</a>
 <a href="https://medium.com/@alpkrts3" target="_blank">
     <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@alpkrts3">
 </a>
+<a href="mailto:alpkrts3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:alpkrts3@gmail.com">
+</a>
+
