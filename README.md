@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+<a href="https://reactnative.dev" target="_blank">
 <img width=35 height=35 src="https://i.hizliresim.com/uVbeqe.png" alt="https://reactnative.dev">
-
+</a>
 <b><b>
 <!--
 **alperkaratas/alperkaratas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
