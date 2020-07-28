@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://twitter.com/alpkaratass" target="_blank">
+    <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/alpkaratass">
+</a>
+<a href="https://www.linkedin.com/in/alper-karataş-071095109/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/alper-karataş-071095109/">
+</a>
+<a href="https://www.instagram.com/alpkrts/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/alpkrts/">
+</a>
+<a href="mailto:alpkrts3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:alpkrts3@gmail.com">
+</a>
+<a href="https://medium.com/@alpkrts3" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@alpkrts3">
+</a>
