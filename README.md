@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 <b>    
 
+[![Alper's Github stats](https://github-readme-stats.vercel.app/api?username=alperkaratas)]
+
 <a href="https://twitter.com/alpkaratass" target="_blank">
     <img src="https://img.shields.io/badge/%20-twitter-%231DA1F2" alt="https://twitter.com/alpkaratass">
 </a>
