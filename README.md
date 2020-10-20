@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width=35 height=35 src="https://i.hizliresim.com/uVbeqe.png">
+
+<img src="https://github.com/alperkaratas/alperkaratas/blob/master/animation_500_kd7ngokt.gif" alt="react-native" width=220 height=220 align="right">
 
 
 <b>    
