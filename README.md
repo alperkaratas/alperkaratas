@@ -37,3 +37,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:alpkrts3@gmail.com">
 </a>
 
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Falperkaratas.alperkaratas%2Freadme)
